@@ -1,0 +1,144 @@
+{
+        "title": "Recording 6/1/2026 at 12:31:22 PM",
+        "steps": [
+                {
+                        "type": "setViewport",
+                        "width": 1258,
+                        "height": 1080,
+                        "deviceScaleFactor": 1,
+                        "isMobile": false,
+                        "hasTouch": false,
+                        "isLandscape": false
+                },
+                {
+                        "type": "navigate",
+                        "url": "https://www.grid9.ru/?ref=minimal.gallery",
+                        "assertedEvents": [
+                                {
+                                        "type": "navigation",
+                                        "url": "https://www.grid9.ru/?ref=minimal.gallery",
+                                        "title": "Grid9 Studio | Заказать сайт на Тильде - Разработка стильных сайтов под ключ"
+                                }
+                        ]
+                },
+                {
+                        "type": "click",
+                        "target": "main",
+                        "selectors": [
+                                [
+                                        "#rec2275931781 div.t396__filter"
+                                ],
+                                [
+                                        "xpath///*[@id=\"rec2275931781\"]/div/div/div[2]"
+                                ],
+                                [
+                                        "pierce/#rec2275931781 div.t396__filter"
+                                ]
+                        ],
+                        "offsetY": 173,
+                        "offsetX": 1056
+                },
+                {
+                        "type": "click",
+                        "target": "main",
+                        "selectors": [
+                                [
+                                        "#rec917886277 video"
+                                ],
+                                [
+                                        "xpath///*[@id=\"sbs-917886277-1751280962399\"]/a/video"
+                                ],
+                                [
+                                        "pierce/#rec917886277 video"
+                                ]
+                        ],
+                        "offsetY": 506.13999938964844,
+                        "offsetX": 912
+                },
+                {
+                        "type": "doubleClick",
+                        "target": "main",
+                        "selectors": [
+                                [
+                                        "#rec917886277 video"
+                                ],
+                                [
+                                        "xpath///*[@id=\"sbs-917886277-1751280962399\"]/a/video"
+                                ],
+                                [
+                                        "pierce/#rec917886277 video"
+                                ]
+                        ],
+                        "offsetY": 494.7100067138672,
+                        "offsetX": 802
+                },
+                {
+                        "type": "click",
+                        "target": "main",
+                        "selectors": [
+                                [
+                                        "#rec1160826626 div.t396__filter"
+                                ],
+                                [
+                                        "xpath///*[@id=\"rec1160826626\"]/div/div/div[2]"
+                                ],
+                                [
+                                        "pierce/#rec1160826626 div.t396__filter"
+                                ]
+                        ],
+                        "offsetY": 905,
+                        "offsetX": 802
+                },
+                {
+                        "type": "click",
+                        "target": "main",
+                        "selectors": [
+                                [
+                                        "aria/Portfolio case 1"
+                                ],
+                                [
+                                        "div.tn-elem__11608266261778686849376000002 a"
+                                ],
+                                [
+                                        "xpath///*[@id=\"sbs-1160826626-1778686849376000002\"]/a"
+                                ],
+                                [
+                                        "pierce/div.tn-elem__11608266261778686849376000002 a"
+                                ]
+                        ],
+                        "offsetY": 331.78795623779297,
+                        "offsetX": 358.79156494140625
+                },
+                {
+                        "type": "navigate",
+                        "url": "https://www.grid9.ru/?ref=minimal.gallery",
+                        "assertedEvents": [
+                                {
+                                        "type": "navigation",
+                                        "url": "https://www.grid9.ru/?ref=minimal.gallery",
+                                        "title": "Grid9 Studio | Заказать сайт на Тильде - Разработка стильных сайтов под ключ"
+                                }
+                        ]
+                },
+                {
+                        "type": "click",
+                        "target": "main",
+                        "selectors": [
+                                [
+                                        "aria/TELEGRAM TELEGRAM"
+                                ],
+                                [
+                                        "div.tn-elem__10501729461747957242367 a"
+                                ],
+                                [
+                                        "xpath///*[@id=\"sbs-1050172946-1747957242367\"]/div/div/div/a"
+                                ],
+                                [
+                                        "pierce/div.tn-elem__10501729461747957242367 a"
+                                ]
+                        ],
+                        "offsetY": 48.13372802734375,
+                        "offsetX": 56.5
+                }
+        ]
+}
